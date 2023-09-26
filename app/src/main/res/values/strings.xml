@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">contact picker</string>
+    <string name="company">Company:</string>
+    <string name="pick_contact">Pick Contact</string>
+</resources>
